@@ -10,7 +10,7 @@ namespace MyfirstAlgorithm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Noam is happy from his first algortihm");
+            Console.WriteLine("Noam Gueta is happy from his first algortihm");
         }
     }
 }
